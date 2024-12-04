@@ -121,7 +121,7 @@
         <div class="bio-details contact-details">
             <div>
                 <div class="section-title">Contact Information</div>
-                <p><strong>Phone:</strong>7903829948</p>
+                <p><strong>Phone:</strong> 7903829948</p>
                 <p><strong>Email:</strong> purnashaw@gmail.com</p>
             </div>
 
