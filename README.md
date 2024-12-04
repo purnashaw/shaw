@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,7 +8,7 @@
         body {
             margin: 0;
             font-family: Arial, sans-serif;
-            background-image: url('PURNA PIC.jpg'); /* Background image URL */
+            background-image: url('IMG_0712.jpeg'); /* Background image URL */
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
@@ -132,6 +131,9 @@
             <p>Thank you for viewing my marriage biodata.</p>
         </div>
     </div>
+
+</body>
+</html>
 
 </body>
 </html>
