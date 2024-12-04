@@ -8,7 +8,7 @@
         body {
             margin: 0;
             font-family: Arial, sans-serif;
-            background-image: url('IMG_0712.jpeg'); /* Background image URL */
+            background-image: url('PURNA PIC.jpg'); /* Background image URL */
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
@@ -105,15 +105,15 @@
 
         <div class="bio-details">
             <div class="section-title">Education & Profession</div>
-            <p><strong>Education:</strong>Graduation</p>
-            <p><strong>Profession:</strong> Software Engineer</p>
+            <p><strong>Education:</strong> Graduation</p>
+            <p><strong>Profession:</strong> IT Support & Utility Billing</p>
             <p><strong>Company:</strong> TATA STEEL UISL(JUSCO)</p>
             <p><strong>Annual Income:</strong> 3 LPA</p>
         </div>
 
         <div class="bio-details">
             <div class="section-title">Family Details</div>
-            <p><strong>Father's Name:</strong> Late- Jitendra nath Shaw</p>
+            <p><strong>Father's Name:</strong> Late- Jitendra Nath Shaw</p>
             <p><strong>Mother's Name:</strong> Late- Bela Rani Shaw</p>
             <p><strong>Siblings:</strong> 2 Sister (Married)</p>
         </div>
@@ -128,12 +128,9 @@
         </div>
 
         <div class="footer">
-            <p>Thank you for viewing my marriage biodata.</p>
+            <p>Thank you for viewing my Profile.</p>
         </div>
     </div>
-
-</body>
-</html>
 
 </body>
 </html>
