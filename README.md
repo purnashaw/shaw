@@ -90,7 +90,7 @@
 <body>
 
     <div class="container">
-        <h1>Marriage Biodata</h1>
+        <h1>ॐ श्री गणेशाय नमः</h1>
         <h2>Groom's Profile</h2>
 
         <div class="bio-details">
