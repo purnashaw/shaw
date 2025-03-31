@@ -95,8 +95,8 @@
         <div class="bio-details">
             <div class="section-title">Personal Details</div>
             <p><strong>Name:</strong> Purna Chandra Shaw</p>
-            <p><strong>Date of Birth:</strong> 15th Oct, 1992</p>
-            <p><strong>Age:</strong> 32 years</p>
+            <p><strong>Date of Birth:</strong> 15th Oct, 1995</p>
+            <p><strong>Age:</strong> 29 years</p>
             <p><strong>Height:</strong> 5'7" (170 cm)</p>
             <p><strong>Religion:</strong> Hindu</p>
             <p><strong>Caste:</strong> Teli</p>
